@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Max Mustermann",
+    "routenverbot": "Nein"
+  },
+  {
+    "name": "Erika Beispiel",
+    "routenverbot": "Ja"
+  }
+]
